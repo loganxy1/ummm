@@ -1,0 +1,71 @@
+.heading{
+    width:100%;
+    font-size:23px;
+    margin:0px;
+    background-color:rgb(85, 160, 190);
+    color:white;
+    padding:18px;
+    margin-bottom:10px;
+    border-radius:15px;
+}
+
+.note{
+    font-size:18px;
+}
+
+body{
+    background-size:cover;
+}
+
+.gottagofast{
+    border-radius:300px;
+    width:250px;
+    float:left;
+    margin-left:25px;
+    margin-top:-40px;
+}
+
+.sonic{
+    height:45px;
+    width:100px;
+    font-size:20px;
+    float:left;
+    margin-top:50px;
+    margin-right:1162px;
+    margin-left:75px;
+}
+
+.starships{
+    border-radius:300px;
+    width:250px;
+    float:right;
+    margin-right:25px;
+    margin-top:-350px;
+}
+
+.onemoretime{
+    height:45px;
+    width:100px;
+    font-size:20px;
+    float:right;
+    margin-top:-60px;
+    margin-left:1162px;
+    margin-right:100px;
+}
+
+.idk{
+    width:100px;
+    height:45px;
+    font-size:20px;
+    margin-right:250px;
+    margin-bottom:50px;
+}
+
+canvas{
+    border-radius:15px;
+    border-width:5px;
+    border-style:solid;
+    border-color:rgb(85, 160, 190);
+    margin-left:475px;
+    margin-top: -235px;
+}
